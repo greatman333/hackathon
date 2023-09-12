@@ -1,0 +1,39 @@
+.a{
+    position: relative;
+    font-size: 100px;
+    bottom: 335px;
+    left: 200px;
+    width: 200px;
+}
+
+.b{
+    position: relative;
+    font-size: 100px;
+    width: 200px;
+    bottom: 980px;
+    left: 180px;
+}
+
+.c{
+    position: relative;
+    font-size: 100px;
+    width: 200px;
+    bottom: 1600px;
+    left: 200px;
+}
+
+.d{
+    position: relative;
+    font-size: 100px;
+    width: 200px;
+    bottom: 2710px;
+    left: 200px;
+}
+
+.e{
+    position: relative;
+    font-size: 100px;
+    width: 200px;
+    bottom: 2460px;
+    left: 150px;
+}
